@@ -1,6 +1,6 @@
 {
   "name": "@hncjygd/parsetools",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "解析数据以及导出数据到excel的工具",
   "main": "index.js",
   "type": "module",
